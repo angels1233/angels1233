@@ -1,13 +1,10 @@
 ## Bem-vindo(a) ao meu perfil Mateus Moura! 😁
 
-<br clear="both">
+<p align="left"> Cientista de Dados | Cloud Enthusiast</p>
+<p align="left"> Atualmente, estou imerso no programa AWS re/Start + AI da Nuvem, estudando para conquistar minha certificação AWS Certified Cloud Practitioner e levar minhas soluções para a nuvem com ainda mais segurança e escalabilidade. </p>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=angels1233&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angels1233&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="160" alt="languages graph" /> <br>
-</div>
+## Techs
 
-    
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -29,20 +26,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
 </div>
 
- 
- <br>
- 
-  ### Pra entrar em contato comigo!
+## Status
+<br clear="both">
+
+<div >
+  <img src="https://github-readme-stats.vercel.app/api?username=angels1233&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=pt-br&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angels1233&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="180" alt="languages graph"  />
+</div>
+<div>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=angels1233&radius=16&theme=cobalt&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+    
+
+## Pra entrar em contato comigo!
 
 
 <div>   
 <a href="https://www.linkedin.com/in/mateuseamoura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
+
 <div>
 <img src="https://raw.githubusercontent.com/angels1233/angels1233/output/snake.svg" alt="Snake animation" />
 </div>
 
-<div>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=angels1233&radius=16&theme=cobalt&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
+
