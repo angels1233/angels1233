@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
 </div>
 
  
@@ -35,12 +35,12 @@
   ### Pra entrar em contato comigo!
 
 
-<div> 
-  
-  <a href="https://www.linkedin.com/in/mateuseamoura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- <img src="https://raw.githubusercontent.com/angels1233/angels1233/output/snake.svg" alt="Snake animation" />
+<div>   
+<a href="https://www.linkedin.com/in/mateuseamoura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
+<div>
+<img src="https://raw.githubusercontent.com/angels1233/angels1233/output/snake.svg" alt="Snake animation" />
 </div>
 
 <div>
